@@ -1,0 +1,21 @@
+{
+    "school": "Nguyen Thuong Hien",
+    "classes": [
+      {
+        "classId": 1,
+        "name": "1A",
+        "teacher": "Hoang Anh Vu",
+        "students": [
+          {
+            "studentId": 1,
+            "name": "Le Quang Teo"
+          }
+        ]
+      },
+      {
+        "classId": 2,
+        "name": "1B",
+        "teacher": "Nguyen Phuong"
+      }
+    ]
+  }
